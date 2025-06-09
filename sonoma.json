@@ -1,8 +1,8 @@
 {
     "osVersionRequirements": [
       {
-        "requiredInstallationDate": "2025-03-26T13:59:00Z",
-        "requiredMinimumOSVersion": "14.7.4",
+        "requiredInstallationDate": "2025-06-24T13:59:00Z",
+        "requiredMinimumOSVersion": "14.7.6",
         "targetedOSVersionsRule": "14"
       }
     ]
