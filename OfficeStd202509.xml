@@ -1,0 +1,17 @@
+<Configuration ID="f97236c3-df24-45db-a759-894aa936f7eb">
+  <Info Description="For PDQC 2025-08-28" />
+  <Add OfficeClientEdition="64" Channel="MonthlyEnterprise" MigrateArch="TRUE">
+    <Product ID="O365ProPlusEEANoTeamsRetail">
+      <Language ID="en-us" />
+      <ExcludeApp ID="Groove" />
+      <ExcludeApp ID="Lync" />
+      <ExcludeApp ID="OutlookForWindows" />
+    </Product>
+  </Add>
+  <Updates Enabled="TRUE" />
+  <RemoveMSI />
+  <AppSettings>
+    <Setup Name="Company" Value="Davidson College" />
+  </AppSettings>
+  <Display Level="None" AcceptEULA="TRUE" />
+</Configuration>
